@@ -1,0 +1,8 @@
+psycopg2-binary
+pymongo
+python-dotenv
+certifi
+polars
+pandas
+matplotlib
+jupyter
