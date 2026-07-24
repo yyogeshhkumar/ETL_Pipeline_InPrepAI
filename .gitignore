@@ -11,3 +11,5 @@ __pycache__/
 extracted_data.json
 
 LinkedIn_table.py
+
+seed_data.py
