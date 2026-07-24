@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DEP.iml" filepath="$PROJECT_DIR$/.idea/DEP.iml" />
+      <module fileurl="file://$USER_HOME$/airflow/.idea/airflow.iml" filepath="$USER_HOME$/airflow/.idea/airflow.iml" />
     </modules>
   </component>
 </project>
